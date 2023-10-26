@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos globales */
+
+body {
+  background-color: #000300;
+}
+
+/* ================== */
