@@ -12,7 +12,7 @@ Proyectos y plantillas que podrán usar en sus portafolios usando la librería *
 
 **Aquí listaré los proyectos que vaya desarrollando trabajando. Podrás revisar el live del proyecto haciendo click en el nombre:**
 
-- [✅] Proyecto 01: Plantilla de página web DevOps StartUp | <a href="https://adorable-quokka-68d59a.netlify.app/" target="_blank">Ver Live</a>
+- [✅] Proyecto 01: Plantilla de página web DevOps StartUp | <a href="https://adorable-quokka-68d59a.netlify.app/" target="_blank" rel="noreferrer noopener">Ver Live</a>
 - [⌛] Proyecto 02: **En proceso**
 
 ## 📩 Contacto
