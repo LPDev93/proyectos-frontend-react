@@ -1,0 +1,34 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Country Club Lima Hotel",
+      "description": "Este hotel majestuoso se encuentra en el distrito de las embajadas, en un edificio histórico con antigüedades y obras de arte originales, frente al Lima Golf Club y a 5 km del centro comercial Larcomar.",
+      "image": "/img/hotel1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Dazzler by Wyndham",
+      "description": "Este hotel tranquilo se encuentra en una calle amplia y arbolada, a 4 km de una estación de metro y a 5 km de las ruinas de la pirámide antigua de Huaca Pucllana y de las obras de arte del Museo Larco.",
+      "image": "/img/hotel2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Faraona Grand Hotel",
+      "description": "Este hotel moderno, ubicado en una calle estrecha en el distrito de Miraflores, se encuentra a 2 km del centro comercial Larcomar y de la Huaca Pucllana, unas antiguas ruinas en forma de pirámide.",
+      "image": "/img/hotel3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "DoubleTree",
+      "description": "Este hotel elegante, ubicado frente a la arbolada plaza de Armas de Iquitos en el centro de la ciudad, está a 2 minutos a pie de la catedral elegante de San Juan Bautista y a 9 km del aeropuerto internacional Coronel FAP Francisco Secada Vignetta.",
+      "image": "/img/hotel4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "San Agustín Paracas",
+      "description": "Este hotel majestuoso se encuentra en el distrito de las embajadas, en un edificio histórico con antigüedades y obras de arte originales, frente al Lima Golf Club y a 5 km del centro comercial Larcomar.",
+      "image": "/img/hotel5.jpeg"
+    }
+  ]
+}
