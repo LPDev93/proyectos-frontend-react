@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Proyectos Frontend React" src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777463/clojurescript-tutorial-react-front-end-654b0d95bd177c9ea6ca3ad9e528de91.png" width="100%" />
+<img alt="Proyectos Frontend React" src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777463/clojurescript-tutorial-react-front-end-654b0d95bd177c9ea6ca3ad9e528de91.png" width="500px" />
 
 # Proyectos Frontend con React ⚛️
 
